@@ -1,1 +1,3 @@
-# License_Plate_Recognition
+# License Plate Recognition
+<br>
+Implementation of an OCR for License Plate Rcognition using kNN with a custom Dataset
